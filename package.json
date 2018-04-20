@@ -1,0 +1,9 @@
+{
+  "name": "caravan-service",
+  "version": "0.1",
+  "description": "Service for Caravan",
+  "main": "app.js",
+  "repository": "https://github.com/javo0112/caravan-server",
+  "author": "Javier Balam",
+  "license": "MIT"
+}
